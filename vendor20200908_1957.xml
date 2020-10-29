@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+  <folder>vendor20200908</folder>
+  <filename>vendor20200908_1957.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>vendors</name>
+    <bndbox>
+      <xmin>785</xmin>
+      <ymin>367</ymin>
+      <xmax>1024</xmax>
+      <ymax>462</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vendors</name>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>321</ymin>
+      <xmax>672</xmax>
+      <ymax>700</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vendors</name>
+    <bndbox>
+      <xmin>1546</xmin>
+      <ymin>630</ymin>
+      <xmax>1916</xmax>
+      <ymax>1074</ymax>
+    </bndbox>
+  </object>
+</annotation>
